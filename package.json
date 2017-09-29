@@ -1,0 +1,22 @@
+{
+  "name": "promises",
+  "version": "1.0.0",
+  "description": "manipulation promises",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JulienBertrand/Node.Js_promises.git"
+  },
+  "author": "Jables",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JulienBertrand/Node.Js_promises/issues"
+  },
+  "homepage": "https://github.com/JulienBertrand/Node.Js_promises#readme",
+  "dependencies": {
+    "fs-extra": "^4.0.2"
+  }
+}
